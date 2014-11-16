@@ -1,0 +1,11 @@
+{
+	"apiKey": "example stuff",
+	"public": {
+		"groupId": "example",
+		"id": "example"
+	}
+}
+
+// Remove this comment and put settings in here.
+// Read more about settings here: 
+// http://docs.meteor.com/#/full/meteor_settings
