@@ -20,7 +20,7 @@ Since files are separated between client/ and server/ you do not need to use Met
 - .meteor - Meteor Files (packages, db, etc...)
 
 #### Client Side
-- client: Client Specific Files
+- **client**: Client Specific Files
 - client/config: Spacebars helpers, helper functions, and other client related things.
 - client/lib: Libraries for the client side.
 - client/modules: Templates that are frequently reused(navigation, header, footer)
