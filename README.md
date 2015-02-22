@@ -21,7 +21,7 @@ Since files are separated between client/ and server/ you do not need to use Met
 
 #### Client Side
 - **client**: Client Specific Files
-- **client/config**: Spacebars helpers, helper functions, and other client related things.
+- **client/config**: UI helpers, helper functions, and other client related things.
 - **client/lib**: Libraries for the client side.
 - **client/modules**: Templates that are frequently reused(navigation, header, footer)
 - **client/startup**: Things to do when the client starts up. Maybe start a timer.
@@ -40,6 +40,13 @@ Since files are separated between client/ and server/ you do not need to use Met
 - **lib**: Global helper methods or global libraries to be used across server and client.
 - **model**: This is where collections should always go unless you are creating collections dynamically then it can go somewhere else.
 - **routes**: Route configuration and routing goes here.
+
+### UI Helpers
+**Equals**
+```
+{{#if euqals string 'expected'}}
+{{/if}}
+```
 
 ### Contributors
 None yet, but feel free to submit a PR and I'll consider your request.
