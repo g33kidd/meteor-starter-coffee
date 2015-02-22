@@ -44,7 +44,7 @@ Since files are separated between client/ and server/ you do not need to use Met
 ### UI Helpers
 **Equals**
 ```
-{{#if euqals string 'expected'}}
+{{#if equals string 'expected'}}
 {{/if}}
 ```
 
