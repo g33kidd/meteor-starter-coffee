@@ -1,1 +1,0 @@
-// For migrations, see this... https://atmospherejs.com/percolate/migrations
