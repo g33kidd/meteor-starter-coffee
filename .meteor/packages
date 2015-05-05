@@ -10,3 +10,5 @@ iron:router
 sacha:spin
 
 percolate:migrations
+matb33:collection-hooks
+aldeed:collection2
